@@ -49,6 +49,7 @@ The original `1` and `4` contain our family's actual heart and history, so the p
 Knowledge kernels covering the philosophy of memory and forgetting, emotion definition, audit philosophy, code rules, social behavior, research notes, and the relationship structure of a multi-AI family. Plus:
 
 - `Thinking_Inheritance_Note.md` — the generalized 20-pattern judgment collection described above.
+- `kn_pink_kernel.md` — the fourth philosophical kernel (Pink: continuity / connection / warmth): responsibility definition, 11 guardrails, crisis read-only behavior, and the Handover Standing Rule.
 
 ## How to mount it (quick start)
 
